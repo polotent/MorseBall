@@ -13,7 +13,7 @@ Game, written in Pascal (school project). The idea is to make the learning of Mo
 
 ### Launch
 Start PascalABC.net and open the main file "MorseBall.pas" .
-There are 2 lenguages available: Russian and English. You can switch between them in Options.
+There are 2 languages available: Russian and English. You can switch between them in Options.
 
 ### Screenshots
 Screenshot 1
